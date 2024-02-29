@@ -1,0 +1,16 @@
+.container {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #820b8a;
+  padding: 5px;
+  border-radius: 10px;
+}
+#displayClock {
+  font-family: "DotGothic16", sans-serif;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 35px;
+  color: white;
+}
